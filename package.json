@@ -1,6 +1,6 @@
 {
+  "homepage":"http://{PanchaliUpendra}.github.io/{robofriends}",
   "name": "robotic",
-  "homepage": "https://PanchaliUpendra.github.io/robotic",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
